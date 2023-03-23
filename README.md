@@ -13,7 +13,7 @@
   <h3>React.js | Bootstrap | Node.js </h3>
   
  
-<h3 align="left">- 📫 How to reach me **iviwedavids@gmail.com**:</h3>
+<h3 align="left">- 📫 How to reach me **iviwedavids@gmail.com** </h3>
 
 
 <h3 align="left">Connect with me:</h3>
