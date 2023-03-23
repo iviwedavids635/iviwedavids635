@@ -3,9 +3,10 @@
   
  Skills & Technolgies
  
-  <h1>Programming languages: HTML | CSS | JavaScript | Python</h1> 
-  
-  <h3>Tools: Git | GitBash | Visual Studio Code</h3> 
+  <h1>Programming languages: </h1> 
+  <h3>HTML | CSS | JavaScript | Python </h3.
+  <h1>Tools: </h1>
+  <h3>Git | GitBash | Visual Studio Code</h3> 
   
   <h3>Frameworks: React.js | Bootstrap | Node.js </h3>
   
