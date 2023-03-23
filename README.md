@@ -3,7 +3,7 @@
   
  Skills & Technolgies
  
-  <h3>Programming languages: HTML | CSS | JavaScript | Python</h3> 
+  <h1>Programming languages: HTML | CSS | JavaScript | Python</h1> 
   
   <h3>Tools: Git | GitBash | Visual Studio Code</h3> 
   
