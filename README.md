@@ -3,9 +3,10 @@
   
  Skills & Technolgies
  
- Programming languages: HTML | CSS | JavaScript | Python 
- Tools: Git | GitBash | Visual Studio Code 
- Frameworks: React.js | Bootstrap | Node.js </h3>
+  <h3>Programming languages: HTML | CSS | JavaScript | Python</h3> 
+  <h3>Tools: Git | GitBash | Visual Studio Code</h3> 
+  <h3>Frameworks: React.js | Bootstrap | Node.js </h3>
+ </h3>
 
 - 📫 How to reach me **iviwedavids@gmail.com**
 
