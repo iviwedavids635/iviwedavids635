@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Iviwe Davids</h1>
-<h3 align="center">I am a self-motivated and detail-oriented individual with a passion for software development. I have spent countless hours learning and practicing different programming languages, tools, and frameworks. My primary goal is to secure a software developer position in a dynamic and challenging environment where I can leverage my skills and contribute to the success of the team. 
+<h1 align="left">Hi 👋, I'm Iviwe Davids</h1>
+<h3 align="left">I am a self-motivated and detail-oriented individual with a passion for software development. I have spent countless hours learning and practicing different programming languages, tools, and frameworks. My primary goal is to secure a software developer position in a dynamic and challenging environment where I can leverage my skills and contribute to the success of the team. 
   
  Skills & Technolgies
  
  Programming languages: HTML | CSS | JavaScript | Python 
  Tools: Git | GitBash | Visual Studio Code 
  Frameworks: React.js, Bootsteap, Node.js</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iviwedavids635" alt="iviwedavids635" /></a> </p>
 
 - 📫 How to reach me **iviwedavids@gmail.com**
 
