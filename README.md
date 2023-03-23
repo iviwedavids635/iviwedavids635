@@ -5,7 +5,7 @@
  
  Programming languages: HTML | CSS | JavaScript | Python 
  Tools: Git | GitBash | Visual Studio Code 
- Frameworks: React.js, Bootsteap, Node.js</h3>
+ Frameworks: React.js, Bootstrap, Node.js</h3>
 
 - 📫 How to reach me **iviwedavids@gmail.com**
 
